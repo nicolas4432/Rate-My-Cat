@@ -25,6 +25,9 @@
         <project.encondig>UTF-8</project.encondig>
         <project.build.sourceEncoding>${project.encondig}</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${project.encondig}</project.reporting.outputEncoding>
+        
+        <sonar.organization>nicolas4432</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencies>
